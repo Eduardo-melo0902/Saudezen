@@ -1,0 +1,9 @@
+# Bibliotecas do Node: o "npm install" baixa de novo a partir do package.json
+node_modules/
+
+# Senhas e chaves nunca vão para o GitHub (ficam nas variáveis de ambiente do Windows)
+.env
+.env*.local
+
+# Anotações de trabalho do Claude (ficam só neste computador)
+CLAUDE.md
